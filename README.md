@@ -26,3 +26,4 @@ Data analysis project using SQL to analyze sales performance, customer trends an
 - Some regions show consistently low sales performance
 - Delivery Truck is the shipping method with the most shipping cost
 - The customers with the highest purchases purchased Furniture,Technology and Office supplies the most.
+  
